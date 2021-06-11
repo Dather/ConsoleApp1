@@ -10,6 +10,7 @@ namespace ConsoleApp1
             Console.WriteLine("I'm just elephant!");
             Console.WriteLine("I'm cat!");
             Console.WriteLine("I'm lion!!!");
+            Console.WriteLine("Another empty string!");
         }
     }
 }
